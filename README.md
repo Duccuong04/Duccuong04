@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. Just my GitHub profile, but it's all of my journey.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duccuong04&layout=compact&bg_color=ADD8E6)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duccuong04&show_icons=true&theme=tokyonight)

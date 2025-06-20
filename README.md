@@ -7,33 +7,30 @@
 
 ## 🛠️ Technologies and Tools
 
-## 🛠️ Technologies and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-%2300ADD8.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Makefile-%23f2f2f2.svg?style=for-the-badge&logo=gnu&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Script-%23213A3E.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenOCD-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCC-%23FF6600.svg?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KeilC-%230082C9.svg?style=for-the-badge&logoColor=white" alt="KeilC"/>
+  <img src="https://img.shields.io/badge/IAR-%23C1462A.svg?style=for-the-badge&logoColor=white" alt="IAR Embedded Workbench"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GNU-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logic%20Analyzer-%23707070.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Logic Analyzer"/>
+  <img src="https://img.shields.io/badge/STM32-%230073B5.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-%23FFFFFF.svg?style=for-the-badge&logo=esphome&logoColor=black"/>
+</p>
 
-<div align="center">
 
-<!-- Dòng 1 -->
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-6E6E6E?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Makefile-CCCCCC?style=for-the-badge&logo=gnubash&logoColor=black"/>
-
-<!-- Dòng 2 -->
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell%20Script-2C2C2C?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenOCD-0082C9?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCC-F34B7D?style=for-the-badge&logo=gnu&logoColor=white"/>
-
-<!-- Dòng 3 -->
-<img src="https://img.shields.io/badge/KeilC-1A82E2?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAR-A42925?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/EB%20Tresos-2F6DB0?style=for-the-badge&logo=autodesk&logoColor=white"/>
-
-</div>
 
 
 <!--

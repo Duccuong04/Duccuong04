@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Logic%20Analyzer-%23707070.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Logic Analyzer"/>
+  <img src="https://img.shields.io/badge/Logic%20Analyzer-%23707070.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/STM32-%230073B5.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-%23FFFFFF.svg?style=for-the-badge&logo=esphome&logoColor=black"/>
 </p>

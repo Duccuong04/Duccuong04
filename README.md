@@ -1,7 +1,6 @@
 ## Hi there 👋. Just my GitHub profile, but it's all of my journey...
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duccuong04&layout=compact&bg_color=ADD8E6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duccuong04&show_icons=true&theme=tokyonight)
 
 [![Duccuong04's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Duccuong04&theme=tokyo-night)](https://github.com/Duccuong04/github-readme-activity-graph)
 
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Logic%20Analyzer-%23707070.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23707070.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/STM32-%230073B5.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-%23FFFFFF.svg?style=for-the-badge&logo=esphome&logoColor=black"/>
 </p>

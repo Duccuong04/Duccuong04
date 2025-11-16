@@ -2,12 +2,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duccuong04&layout=compact&bg_color=ADD8E6)
 
-[![Duccuong04's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Duccuong04&theme=tokyo-night)](https://github.com/Duccuong04/github-readme-activity-graph)
-
-
-
-
-
 <!--
 **Duccuong04/Duccuong04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

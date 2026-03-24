@@ -1,4 +1,4 @@
-## Hi there 👋. Just my GitHub profile, but it's all of my journey...
+
 
 <!--
 **Duccuong04/Duccuong04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
